@@ -31,10 +31,5 @@ const headphone = [
     title:
       " Sony WH-CH720N, Wireless Over-Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Multi-Point Connection",
   },
-  {
-    imgsrc: "https://m.media-amazon.com/images/I/51rpbVmi9XL._SL1200_.jpg",
-    title:
-      " Sony WH-CH720N, Wireless Over-Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Multi-Point Connection",
-  },
 ];
 export default headphone;
